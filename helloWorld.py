@@ -1,5 +1,8 @@
-def helloProject():
-    print("hello world")
+def helloProject(fname):
+    print(fname + " please do your job")
 
 
-helloProject()
+helloProject("mehdi")
+helloProject("amir")
+helloProject("arash")
+
